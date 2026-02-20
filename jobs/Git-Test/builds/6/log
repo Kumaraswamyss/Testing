@@ -1,0 +1,136 @@
+Started by user [8mha:////4MABQ2g+J3X6Z9hsOcr3VNuuDeTB3abRqeKmQiC+YNt9AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/dLi1CL9rNS87My8YgDGtiJjwgAAAA==[0mjenkins
+[8mha:////4Id1wnwkDV8GLUl5s6z+zZuW3kj6b64aCxE6O6BN6fyXAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4CeK4i4X66TPNgFpC5sGJ6zA+GTig6Mjcs29c3T3dgXpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4OVAnO7UD9Ra3WLRkBLKmOZqewMIYCZzLfmyFOwbA8JvAAAApB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZJ/eT83ILSktQi/eKcxLJUVSOX4tSiMiAXABhRgXDOAAAA[0mslave-server in /home/ubuntu/slave-workspace/workspace/Git-Test
+[8mha:////4EwQ1Ua5lY/aWEj6ueJt21L4SWiPupO7VJMyd5pej/juAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4JSzsTjbd6j5M3yRZF9QJPpdDTa/9F5EIpw5HxrrQBV2AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4OgAzbR2k6etlpiUs16Y4Z8SE9nUCT2smE/t5sPtOzTVAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Git Checkout)
+[8mha:////4OMTnyNK6Mho3IdNv85MR70de8VlqeNHOtKRPxs7gsajAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] git
+The recommended git tool is: NONE
+using credential GitHub-Token
+Fetching changes from the remote Git repository
+Checking out Revision 9091a88c3c668dde5e68cfafd6ae8bf76bdc3f9e (refs/remotes/origin/Dev)
+Commit message: "Update pom.xml"
+First time build. Skipping changelog.
+[8mha:////4MiMVX0zC347OTTgWwUC0n6z7m9M/EHA4ZAqGhmZeVzKAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4IB9rcmc0fo2HLgTX2OyisPRDZiuBFPYo+J76ZGorvUkAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4Oo3DzZlw7g/eGvECWiE2ADnP6xekLBVrTNrFLoua8f+AAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] stage
+[8mha:////4BESTFLSRKhSsPy2mLOAXevJAUTwR047h55lZx1JgMg+AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] { (Build)
+[8mha:////4FCxmYGlR8QPluXM/odA5cJkyQ4ySDHO0BTvfPypmv87AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggysXWsbBkaT4AJIoT5nwCRVJ7Iq3kH0cxYucXOvm3e8wXrGOBIQTOrcDAYO8O8m3RZLFMYro4ys3RhHWEkp5hQWVCvTgsKSgqWVDWsOGwUdo6iQZ1gy628y8ZJ1M05hfIdONSmH+EBFS/mJEP6whxgd5v6SPjz/BXA7BPUbfupvX8DpQJrNb4AAAA=[0m[Pipeline] sh
++ mvn package
+ > git rev-parse --resolve-git-dir /home/ubuntu/slave-workspace/workspace/Git-Test/.git # timeout=10
+ > git config remote.origin.url https://github.com/Kumaraswamyss/secretsanta-generator.git # timeout=10
+Fetching upstream changes from https://github.com/Kumaraswamyss/secretsanta-generator.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+using GIT_ASKPASS to set credentials GitHub-Token
+ > git fetch --tags --force --progress -- https://github.com/Kumaraswamyss/secretsanta-generator.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/Dev^{commit} # timeout=10
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 9091a88c3c668dde5e68cfafd6ae8bf76bdc3f9e # timeout=10
+ > git branch -a -v --no-abbrev # timeout=10
+ > git checkout -b Dev 9091a88c3c668dde5e68cfafd6ae8bf76bdc3f9e # timeout=10
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m---------------------< [0;36mcom.notthebest:secretsanta[0;1m >---------------------[m
+[[1;34mINFO[m] [1mBuilding secretsanta 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.1.0:resources[m [1m(default-resources)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] Copying 1 resource
+[[1;34mINFO[m] Copying 9 resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:compile[m [1m(default-compile)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.1.0:testResources[m [1m(default-testResources)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /home/ubuntu/slave-workspace/workspace/Git-Test/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.8.1:testCompile[m [1m(default-testCompile)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] Nothing to compile - all classes are up to date
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.22.2:test[m [1m(default-test)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m]  T E S T S
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m] Running com.notthebest.demo.[1mSecretsantaApplicationTests[m
+10:22:42.013 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+10:22:42.028 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+10:22:42.062 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.notthebest.demo.SecretsantaApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+10:22:42.074 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.notthebest.demo.SecretsantaApplicationTests], using SpringBootContextLoader
+10:22:42.077 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.notthebest.demo.SecretsantaApplicationTests]: class path resource [com/notthebest/demo/SecretsantaApplicationTests-context.xml] does not exist
+10:22:42.077 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.notthebest.demo.SecretsantaApplicationTests]: class path resource [com/notthebest/demo/SecretsantaApplicationTestsContext.groovy] does not exist
+10:22:42.078 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.notthebest.demo.SecretsantaApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+10:22:42.079 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.notthebest.demo.SecretsantaApplicationTests]: SecretsantaApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:22:42.107 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.notthebest.demo.SecretsantaApplicationTests]
+10:22:42.160 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [/home/ubuntu/slave-workspace/workspace/Git-Test/target/classes/com/notthebest/demo/SecretsantaApplication.class]
+10:22:42.161 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.notthebest.demo.SecretsantaApplication for test class com.notthebest.demo.SecretsantaApplicationTests
+10:22:42.237 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [com.notthebest.demo.SecretsantaApplicationTests]: using defaults.
+10:22:42.237 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+10:22:42.250 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@4ea5b703, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a7ed1f, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3fa247d1, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2cb2fc20, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4f4c4b1a, org.springframework.test.context.transaction.TransactionalTestExecutionListener@723e88f9, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@5f0fd5a0, org.springframework.test.context.event.EventPublishingTestExecutionListener@64e7619d, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@495ee280, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@4fa1c212, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6ea2bc93, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@3116c353, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@f627d13, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@4e928fbf]
+10:22:42.253 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@50313382 testClass = SecretsantaApplicationTests, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@1cb346ea testClass = SecretsantaApplicationTests, locations = '{}', classes = '{class com.notthebest.demo.SecretsantaApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@131ef10, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@2df3b89c, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@158a8276, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@ed7f8b4, org.springframework.boot.test.context.SpringBootTestArgs@1], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true]], class annotated with @DirtiesContext [false] with mode [null].
+10:22:42.279 [main] DEBUG org.springframework.test.context.support.TestPropertySourceUtils - Adding inlined properties to environment: {spring.jmx.enabled=false, org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.3.1.RELEASE)
+
+2026-02-20 10:22:42.599  INFO 10433 --- [           main] c.n.demo.SecretsantaApplicationTests     : Starting SecretsantaApplicationTests on ip-172-31-25-16 with PID 10433 (started by ubuntu in /home/ubuntu/slave-workspace/workspace/Git-Test)
+2026-02-20 10:22:42.600  INFO 10433 --- [           main] c.n.demo.SecretsantaApplicationTests     : No active profile set, falling back to default profiles: default
+2026-02-20 10:22:43.360  INFO 10433 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2026-02-20 10:22:43.422  INFO 10433 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 50ms. Found 1 JPA repository interfaces.
+2026-02-20 10:22:44.131  INFO 10433 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2026-02-20 10:22:44.159  INFO 10433 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-02-20 10:22:44.331  INFO 10433 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-02-20 10:22:44.454  INFO 10433 --- [         task-1] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-02-20 10:22:44.538  INFO 10433 --- [         task-1] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.17.Final
+2026-02-20 10:22:44.821  INFO 10433 --- [         task-1] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2026-02-20 10:22:44.839  WARN 10433 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-02-20 10:22:45.034  INFO 10433 --- [         task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2026-02-20 10:22:45.352  INFO 10433 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-02-20 10:22:45.799  INFO 10433 --- [           main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+2026-02-20 10:22:45.910  INFO 10433 --- [         task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2026-02-20 10:22:45.916  INFO 10433 --- [         task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-02-20 10:22:46.154  INFO 10433 --- [           main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+2026-02-20 10:22:46.179  INFO 10433 --- [           main] c.n.demo.SecretsantaApplicationTests     : Started SecretsantaApplicationTests in 3.891 seconds (JVM running for 4.862)
+[[1;34mINFO[m] [1;32mTests run: [0;1;32m1[m, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.49 s - in com.notthebest.demo.[1mSecretsantaApplicationTests[m
+2026-02-20 10:22:46.376  INFO 10433 --- [extShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-02-20 10:22:46.378  INFO 10433 --- [extShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2026-02-20 10:22:46.382  WARN 10433 --- [extShutdownHook] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 90121, SQLState: 90121
+2026-02-20 10:22:46.382 ERROR 10433 --- [extShutdownHook] o.h.engine.jdbc.spi.SqlExceptionHelper   : Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2026-02-20 10:22:46.383  WARN 10433 --- [extShutdownHook] o.h.engine.jdbc.spi.SqlExceptionHelper   : SQL Error: 90121, SQLState: 90121
+2026-02-20 10:22:46.385 ERROR 10433 --- [extShutdownHook] o.h.engine.jdbc.spi.SqlExceptionHelper   : Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+2026-02-20 10:22:46.385  WARN 10433 --- [extShutdownHook] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'entityManagerFactory': org.hibernate.exception.JDBCConnectionException: Unable to release JDBC Connection used for DDL execution
+2026-02-20 10:22:46.385  INFO 10433 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2026-02-20 10:22:46.390  INFO 10433 --- [extShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-02-20 10:22:46.396  INFO 10433 --- [extShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] Results:
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1;32mTests run: 1, Failures: 0, Errors: 0, Skipped: 0[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-jar-plugin:3.2.0:jar[m [1m(default-jar)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] Building jar: /home/ubuntu/slave-workspace/workspace/Git-Test/target/secretsanta-0.0.1-SNAPSHOT.jar
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mspring-boot-maven-plugin:2.3.1.RELEASE:repackage[m [1m(repackage)[m @ [36msecretsanta[0;1m ---[m
+[[1;34mINFO[m] Replacing main artifact with repackaged archive
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  7.974 s
+[[1;34mINFO[m] Finished at: 2026-02-20T10:22:47Z
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[8mha:////4Iq2dwx5nzJXfiJ6NTR0wS8lwKuNfqcsTIMVRVSzWmqOAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyGUvHypah8QSYIEKY/wkQSeWJvJp3EM2MlVvs7NvmPV+wjgGOFDSzCgeDsTPMu0mXxTKF4eooM0sX1hFGcooJlQX16rSgoKRgSVXDisNGYecoGtQJttzKu2ycRN2cUyjfgUNt+hEeUPFiTjKkL8wBdrepj4Q/z18BzN4nqNv9p9o3geV5574AAAA=[0m[Pipeline] }
+[8mha:////4D3/7bTErOnvaQZAhJkxujbs6oWU6/xLUHPskGZK5evzAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bq/le42+AAAA[0m[Pipeline] // stage
+[8mha:////4NSypqu5vs4kCIsk7ISww7oHFP7zcpV52coqbmMnNiU4AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRElSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsP9aSlGr0AAAA=[0m[Pipeline] }
+[8mha:////4KcdlxPH4mj/liIbBQPITtu5Xd+PMuhzm3MSJhKNJHi9AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRQqJBVLRWGl5gEmOcWHfBvpBUvIiv8QciIlGx1c4083pjmSKOHJ1qLLWeUuVVF3o3PTVwbK+BB9XwRVVMiYNVpR1Kru1pxpLFYl6WY6GxslQFTp6cYK0b8zBFMOSKs8TJHTRyX9/xRKanspgoXxgjNre+Tky/zt8Axq4T5Nu9INt9AIZLYcO9AAAA[0m[Pipeline] // node
+[8mha:////4BTSj2O0wr1NpGfd1cpDbiZq0U61cudIyXRq77Oyt5VjAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRNBSIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsPoFIGib0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
